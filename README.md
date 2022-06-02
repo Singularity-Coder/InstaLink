@@ -1,2 +1,2 @@
 # InstaLink
-Find your links in an instant!
+Instant link finder.
